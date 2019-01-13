@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547411512 source:c:\users\home\documents\github\projeto-aed-ufrpe-rede\projeto-nota10-aed\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+
